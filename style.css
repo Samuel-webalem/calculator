@@ -1,0 +1,86 @@
+body{
+    background-color: rgba(14, 13, 13, 0.941);
+    color: white;   
+}
+.body{
+    border: solid ;
+    border-radius: 1rem;
+    margin-left: 35%;
+    margin-right: 35%;
+    box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.789);
+    border-color: rgba(14, 13, 13, 0.566);
+}
+.answer{
+    padding: 40px;
+    margin:15px;
+    background-color: rgb(41, 91, 135);
+    text-align: right;
+    display: flex;
+    font-size: 30px;
+}
+.col1{
+    margin: 20px;
+    display: flex;
+}
+.col2 {
+    margin: 20px;
+    display: flex;
+}
+.col23 {
+    margin: 15px;
+    display: flex;
+    width: 270px;
+}
+.col4{
+    margin: 20px;
+    display: flex;
+    width: 370px;
+}
+.num{
+    border: solid;
+    height: 40px;
+    width: 60px;
+    margin: 15px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 3px 1px 15px  rgba(53, 50, 50, 0.853);
+    border-color: rgba(23, 19, 19, 0.156);
+    background-color: rgb(27, 25, 25);
+}
+.c{ 
+    margin: 15px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(200, 23, 23, 0.646);
+    box-shadow: 5px 1px 20px  inset rgb(68, 10, 10);
+}
+.pluss{
+    margin-right: 32px;
+    border: none;
+    height: 100px;
+    float: right;
+    height: 120px;
+    width: 60px;
+    text-align: center;
+    box-shadow: 3px 1px 15px rgba(53, 50, 50, 0.853);
+    background-color: rgb(27, 25, 25);
+    margin-top: 15px;
+
+}
+.plus{
+    margin-top: 40px;
+    background-color: rgb(27, 25, 25);
+    border: none;
+    font-size: 30px;
+}
+#equal{
+    background-color: rgba(23, 168, 225, 0.953);
+    box-shadow: 5px 1px 20px inset rgb(10, 59, 68);
+    border: none;
+}
+button{
+    color: white;
+}
